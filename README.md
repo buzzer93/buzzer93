@@ -5,11 +5,10 @@
 [![Profil GitHub Vues](https://komarev.com/ghpvc/?username=buzzer93&color=green)](https://github.com/buzzer93)
 
 ### Compétences Principales
-- Anglais
-- Feuilles de style en cascade (CSS)
-- HTML5
-- PHP
-- JavaScript
+- 🌐 HTML5
+- 🎨 CSS
+- 🔧 JavaScript
+- 💻 PHP
 
 ### 📌 À Propos de Moi
 Passionné par le développement depuis plusieurs années, je suis actuellement en reconversion professionnelle pour devenir développeur d'applications. À la recherche d'un contrat d'alternance, je suis déterminé à mettre en pratique mes compétences naissantes et à acquérir une expérience concrète dans le domaine.
