@@ -1,34 +1,23 @@
-# Bienvenue sur mon Profil GitHub 🚀
+Bienvenue sur mon Profil GitHub 🚀
+🌟 Développeur Passionné | Fondateur d'une Micro-entreprise
+Profil GitHub Vues
 
-## 🌟 Développeur Passionné | En Recherche d'Alternance
+Compétences Principales
+🌐 HTML5
+🎨 CSS
+🔧 JavaScript
+💻 PHP
+📌 À Propos de Moi
+Passionné par le développement depuis plusieurs années, j'ai récemment fondé ma propre micro-entreprise dans le domaine du développement d'applications. Ma passion pour le codage et mon désir d'entreprendre m'ont conduit à cette nouvelle aventure.
 
-[![Profil GitHub Vues](https://komarev.com/ghpvc/?username=buzzer93&color=green)](https://github.com/buzzer93)
+🛠️ Compétences Techniques
+Développement web avec HTML, CSS, JavaScript, PHP
+Connaissances en bases de données et en POO
+Outils de développement : VScode, Filezilla, Outil de développement Chrome
+📚 Formation
+Formation autodidacte sur le site de Grafikart et OpenClassrooms
+🎯 Pitch de Valeur
+Je crois fermement que le développement est bien plus qu'une compétence technique. C'est une passion qui m'anime au quotidien, motivée par ma curiosité et la soif d'apprendre, et maintenant par mon engagement entrepreneurial.
 
-### Compétences Principales
-- 🌐 HTML5
-- 🎨 CSS
-- 🔧 JavaScript
-- 💻 PHP
-
-### 📌 À Propos de Moi
-Passionné par le développement depuis plusieurs années, je suis actuellement en reconversion professionnelle pour devenir développeur d'applications. À la recherche d'un contrat d'alternance, je suis déterminé à mettre en pratique mes compétences naissantes et à acquérir une expérience concrète dans le domaine.
-
-### 🛠️ Compétences Techniques
-- Développement web avec HTML, CSS, JavaScript, PHP
-- Connaissances en bases de données et en POO
-- Outils de développement : VScode, Filezilla, Outil de développement Chrome
-
-### 📚 Formation en Cours
-- Concepteur développeur d'applications en alternance
-- École O'clock
-- Prévu en mars 2024
-
-### 🎯 Pitch de Valeur
-Je suis convaincu que le développement est bien plus qu'une compétence technique. C'est une passion qui m'anime au quotidien, motivée par ma curiosité et la soif d'apprendre, me démarquant ainsi de la concurrence.
-
-### 🤝 Ouvert aux Opportunités d'Alternance
-Je suis prêt à contribuer et à apprendre au sein d'une entreprise dynamique. N'hésitez pas à me contacter pour discuter de collaborations potentielles ou pour échanger sur le développement d'applications.
-
----
-
-Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter pour toute opportunité d'alternance ou de collaboration. 🚀
+🤝 Opportunités de Collaboration
+Je suis ouvert à de nouvelles collaborations et à l'exploration de projets intéressants. Si vous avez des idées de collaboration ou des projets sur lesquels vous souhaitez travailler ensemble, n'hésitez pas à me contacter.
