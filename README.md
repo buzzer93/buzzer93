@@ -1,6 +1,5 @@
 Bienvenue sur mon Profil GitHub 🚀
-🌟 Développeur Passionné | Fondateur d'une Micro-entreprise
-Profil GitHub Vues
+🌟 Développeur Passionné 
 
 Compétences Principales
 🌐 HTML5
