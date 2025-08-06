@@ -10,6 +10,7 @@
 - 🔧 JavaScript
 - 💻 PHP
 -  Symfony
+-  Twig
 
 ### 📌 À Propos de Moi
 Passionné par le développement depuis plusieurs années, j'ai récemment fondé ma propre micro-entreprise dans le domaine du développement d'applications. Ma passion pour le codage et mon désir d'entreprendre m'ont conduit à cette nouvelle aventure.
