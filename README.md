@@ -21,7 +21,7 @@ Passionné par le développement depuis plusieurs années, j'ai récemment fond�
 - Outils de développement : VScode, Git, GitHub, GitLAb, Filezilla, Outil de développement Chrome
 
 ### 📚 Formation
-- Formation autodidacte sur le site de Grafikart et OpenClassrooms
+- Formation autodidacte sur le site de Grafikart et OpenClassrooms.
 
 ### 🤝 Opportunités de Collaboration
 Je suis ouvert à de nouvelles collaborations et à l'exploration de projets intéressants. Si vous avez des idées de collaboration ou des projets sur lesquels vous souhaitez travailler ensemble, n'hésitez pas à me contacter.
