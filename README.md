@@ -78,18 +78,6 @@ Ouvert au télétravail depuis la Corse, ou au présentiel selon l’opportunit�
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buzzer93&show_icons=true&hide_title=true&hide_border=true" alt="Statistiques GitHub de Nicolas Rodriguez" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzer93&layout=compact&hide_border=true" alt="Langages les plus utilisés" />
-</p>
-
----
-
 ## Me contacter
 
 - Portfolio : [nicolas-rodriguez.fr](https://nicolas-rodriguez.fr/)
